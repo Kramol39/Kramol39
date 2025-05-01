@@ -1,4 +1,4 @@
-- Hi, I’m @Kramol39, or you can call me Andrei.
+- Hi, I’m @Kramol39, or you can call me Kramol or Andrei.
 - I want to become data analyst so now im learning python, sql, math, english and etc. 
 
 
